@@ -14,6 +14,5 @@
 
 -------------------------------------------
 
----
 
 ## This repo has been transferred to [Here](https://github.com/CUHK-AIM-Group/EndoGaussian).
